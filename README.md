@@ -1,6 +1,6 @@
 # How to Automatically Disable Google Cloud Billing When Budget Is Exceeded
 
-If you need help or just want to connect, feel free to reach out to me on [LinkedIn Amadeusz Iwanowski](https://www.linkedin.com/in/amadeusz-iwanowski/).
+If you need help or just want to connect, feel free to reach out to me on [LinkedIn - Amadeusz Iwanowski](https://www.linkedin.com/in/amadeusz-iwanowski/).
 
 Protect yourself from unexpected Google Cloud costs by automatically disabling billing when your spending approaches the budget limit.
 
